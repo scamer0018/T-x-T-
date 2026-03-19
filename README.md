@@ -10,8 +10,8 @@ Manual Installation:
 
 ```bash
 # Clone repository
-git clone https://github.com/YOUR_USERNAME/termux-pro-theme.git
-cd termux-pro-theme
+git clone https://github.com/scamer0018/T-x-T-.git
+cd T-x-T-
 
 # Make installer executable
 chmod +x install.sh
