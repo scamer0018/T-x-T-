@@ -3,7 +3,7 @@
 For Users (One Line Install):
 
 ```bash
-curl -sL https://raw.githubusercontent.com/scamer0018/termux-pro-theme/main/install.sh | bash
+curl -sL https://raw.githubusercontent.com/scamer0018/T-x-T-/main/install.sh | bash
 ```
 
 Manual Installation:
